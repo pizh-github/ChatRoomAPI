@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pizh.NET8.IService\Pizh.NET8.IService.csproj" />
+    <ProjectReference Include="..\Pizh.NET8.Repository\Pizh.NET8.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

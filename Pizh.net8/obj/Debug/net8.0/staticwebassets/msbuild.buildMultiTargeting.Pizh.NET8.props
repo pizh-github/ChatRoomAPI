@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pizh.NET8.props" />
+</Project>

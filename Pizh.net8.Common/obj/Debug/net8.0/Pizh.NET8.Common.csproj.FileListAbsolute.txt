@@ -1,0 +1,12 @@
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.net8.Common\bin\Debug\net8.0\Pizh.NET8.Common.deps.json
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.net8.Common\bin\Debug\net8.0\Pizh.NET8.Common.dll
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.net8.Common\bin\Debug\net8.0\Pizh.NET8.Common.pdb
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.net8.Common\obj\Debug\net8.0\Pizh.NET8.Common.csproj.AssemblyReference.cache
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.net8.Common\obj\Debug\net8.0\Pizh.NET8.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.net8.Common\obj\Debug\net8.0\Pizh.NET8.Common.AssemblyInfoInputs.cache
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.net8.Common\obj\Debug\net8.0\Pizh.NET8.Common.AssemblyInfo.cs
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.net8.Common\obj\Debug\net8.0\Pizh.NET8.Common.csproj.CoreCompileInputs.cache
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.net8.Common\obj\Debug\net8.0\Pizh.NET8.Common.dll
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.net8.Common\obj\Debug\net8.0\refint\Pizh.NET8.Common.dll
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.net8.Common\obj\Debug\net8.0\Pizh.NET8.Common.pdb
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.net8.Common\obj\Debug\net8.0\ref\Pizh.NET8.Common.dll

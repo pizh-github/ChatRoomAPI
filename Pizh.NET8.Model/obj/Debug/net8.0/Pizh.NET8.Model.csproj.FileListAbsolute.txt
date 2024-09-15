@@ -1,0 +1,15 @@
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\bin\Debug\net8.0\Pizh.NET8.Model.deps.json
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\bin\Debug\net8.0\Pizh.NET8.Model.dll
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\bin\Debug\net8.0\Pizh.NET8.Model.pdb
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\bin\Debug\net8.0\Pizh.NET8.Common.dll
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\bin\Debug\net8.0\Pizh.NET8.Common.pdb
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\obj\Debug\net8.0\Pizh.NET8.Model.csproj.AssemblyReference.cache
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\obj\Debug\net8.0\Pizh.NET8.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\obj\Debug\net8.0\Pizh.NET8.Model.AssemblyInfoInputs.cache
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\obj\Debug\net8.0\Pizh.NET8.Model.AssemblyInfo.cs
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\obj\Debug\net8.0\Pizh.NET8.Model.csproj.CoreCompileInputs.cache
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\obj\Debug\net8.0\Pizh.NET.77460AFF.Up2Date
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\obj\Debug\net8.0\Pizh.NET8.Model.dll
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\obj\Debug\net8.0\refint\Pizh.NET8.Model.dll
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\obj\Debug\net8.0\Pizh.NET8.Model.pdb
+C:\Users\pizh\OneDrive\source\Pizh.net8\Pizh.NET8.Model\obj\Debug\net8.0\ref\Pizh.NET8.Model.dll
