@@ -22,29 +22,11 @@ namespace Pizh.net8.Controllers
         private readonly IBseService<Role, RoleVo> _roleService;
 
         //private readonly IMapper _mapper;
-        public HomeController(ILogger<WeatherForecastController> logger, IBseService<Role,RoleVo> roleService)
+        public HomeController(ILogger<WeatherForecastController> logger, IBseService<Role, RoleVo> roleService)
         {
             _logger = logger;
             _roleService = roleService;
 
         }
-
-
-        //[HttpGet(Name = "/ws")]
-        //public async Task WebSocketServer()
-        //{
-        //    if (HttpContext.WebSockets.IsWebSocketRequest)
-        //    {
-        //        try
-        //        {
-        //            var socket = await HttpContext.WebSockets.AcceptWebSocketAsync();
-        //            await new WebSocketHelper().WebSocketReceive(socket);
-        //        }
-        //        catch (Exception)
-        //        {
-        //        }
-        //    }
-            
-        //}
     }
 }

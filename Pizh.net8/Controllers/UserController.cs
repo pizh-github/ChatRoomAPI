@@ -4,16 +4,14 @@ using Microsoft.AspNetCore.Mvc;
 using Pizh.NET8.Service;
 using System.Security.Claims;
 using Pizh.NET8.Model;
+using Microsoft.Win32;
 
 namespace Pizh.NET8.Controllers
 {
+    [ApiController]
+    [Route("api/[controller]/[action]")]
     public class UserController : Controller
     {
-        //public IActionResult Index()
-        //{
-        //    return View();
-        //}
-
         private readonly UserService _userService;
         public UserController(UserService userService)
         {
@@ -25,7 +23,7 @@ namespace Pizh.NET8.Controllers
         /// <param name="username"></param>
         /// <param name="password"></param>
         /// <returns></returns>
-        [HttpPost]
+        [HttpPost(Name = "Login")]
         public async Task<IActionResult> Login(string username, string password)
         {
             var user = _userService.Login(username, password);//查询用户
@@ -62,19 +60,21 @@ namespace Pizh.NET8.Controllers
 
             return View();
         }
+
         /// <summary>
         /// 注册
         /// </summary>
         /// <param name="user"></param>
         /// <returns></returns>
-        [HttpPost]
+        [HttpPost(Name = "Register")]
         public IActionResult Register(UserVo userVo)
         {
             try
             {
                 _userService.Register(userVo);
             }
-            catch (Exception ex) {
+            catch (Exception ex)
+            {
                 ModelState.AddModelError(string.Empty, ex.Message);
                 return View();
             }
@@ -85,7 +85,7 @@ namespace Pizh.NET8.Controllers
         /// 注销
         /// </summary>
         /// <returns></returns>
-        [HttpPost]
+        [HttpPost(Name = "Logout")]
         public async Task<IActionResult> Logout()
         {
             // 清除当前用户的身份认证信息
@@ -94,7 +94,7 @@ namespace Pizh.NET8.Controllers
             // 清除任何之前登录时设置的临时信息
             TempData.Clear();
 
-            return RedirectToAction("Login", "Account");
+            return RedirectToAction("Login", "UserController");
         }
     }
 }

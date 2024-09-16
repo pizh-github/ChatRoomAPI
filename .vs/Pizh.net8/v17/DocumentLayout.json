@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|solutionrelative:pizh.net8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|solutionrelative:pizh.net8\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|solutionrelative:pizh.net8\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|solutionrelative:pizh.net8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|solutionrelative:pizh.net8\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|solutionrelative:pizh.net8\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +31,24 @@
       "RelativeMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|solutionrelative:pizh.net8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|solutionrelative:pizh.net8\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8\\pizh.net8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|solutionrelative:pizh.net8\\pizh.net8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD4F1F1-39AC-4131-B9AA-272B8F8C07D2}|Pizh.NET8.Repository\\Pizh.NET8.Repository.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8.repository\\base\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD4F1F1-39AC-4131-B9AA-272B8F8C07D2}|Pizh.NET8.Repository\\Pizh.NET8.Repository.csproj|solutionrelative:pizh.net8.repository\\base\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C43366F5-0962-4C06-B812-613E89F5B8C2}|Pizh.NET8.Service\\Pizh.NET8.Service.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8.service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C43366F5-0962-4C06-B812-613E89F5B8C2}|Pizh.NET8.Service\\Pizh.NET8.Service.csproj|solutionrelative:pizh.net8.service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8\\pizh.net8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9AB43643-3701-4ECE-A737-AB8D669C26C0}|Pizh.net8\\Pizh.NET8.csproj|solutionrelative:pizh.net8\\pizh.net8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8AD4F1F1-39AC-4131-B9AA-272B8F8C07D2}|Pizh.NET8.Repository\\Pizh.NET8.Repository.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8.repository\\base\\pgsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD4F1F1-39AC-4131-B9AA-272B8F8C07D2}|Pizh.NET8.Repository\\Pizh.NET8.Repository.csproj|solutionrelative:pizh.net8.repository\\base\\pgsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C43366F5-0962-4C06-B812-613E89F5B8C2}|Pizh.NET8.Service\\Pizh.NET8.Service.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C43366F5-0962-4C06-B812-613E89F5B8C2}|Pizh.NET8.Service\\Pizh.NET8.Service.csproj|solutionrelative:pizh.net8.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD4F1F1-39AC-4131-B9AA-272B8F8C07D2}|Pizh.NET8.Repository\\Pizh.NET8.Repository.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8.repository\\base\\pgsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD4F1F1-39AC-4131-B9AA-272B8F8C07D2}|Pizh.NET8.Repository\\Pizh.NET8.Repository.csproj|solutionrelative:pizh.net8.repository\\base\\pgsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AD4F1F1-39AC-4131-B9AA-272B8F8C07D2}|Pizh.NET8.Repository\\Pizh.NET8.Repository.csproj|c:\\users\\pizh\\onedrive\\source\\pizh.net8\\pizh.net8.repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,17 +62,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Startup.cs",
               "RelativeDocumentMoniker": "Pizh.net8\\Startup.cs",
               "ToolTip": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Startup.cs",
               "RelativeToolTip": "Pizh.net8\\Startup.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAmwFIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAywCQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T15:17:27.845Z",
               "IsPinned": true,
@@ -60,8 +80,99 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pizh.NET8",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Pizh.net8\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Pizh.net8\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwFcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:34:31.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pizh.net8\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pizh.net8\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:13:33.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Pizh.net8\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Pizh.net8\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:00:02.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Program.cs",
+              "RelativeDocumentMoniker": "Pizh.net8\\Program.cs",
+              "ToolTip": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Program.cs",
+              "RelativeToolTip": "Pizh.net8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:35:04.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.NET8.Repository\\Base\\BaseRepo.cs",
+              "RelativeDocumentMoniker": "Pizh.NET8.Repository\\Base\\BaseRepo.cs",
+              "ToolTip": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.NET8.Repository\\Base\\BaseRepo.cs",
+              "RelativeToolTip": "Pizh.NET8.Repository\\Base\\BaseRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:22:46.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Pizh.net8\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\appsettings.Development.json",
+              "RelativeToolTip": "Pizh.net8\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T02:15:22.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\appsettings.json",
+              "RelativeDocumentMoniker": "Pizh.net8\\appsettings.json",
+              "ToolTip": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\appsettings.json",
+              "RelativeToolTip": "Pizh.net8\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T02:15:19.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pizh.NET8.csproj",
               "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Pizh.NET8.csproj",
               "RelativeDocumentMoniker": "Pizh.net8\\Pizh.NET8.csproj",
               "ToolTip": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Pizh.NET8.csproj",
@@ -73,59 +184,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "PGSql.cs",
               "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.NET8.Repository\\Base\\PGSql.cs",
               "RelativeDocumentMoniker": "Pizh.NET8.Repository\\Base\\PGSql.cs",
               "ToolTip": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.NET8.Repository\\Base\\PGSql.cs",
               "RelativeToolTip": "Pizh.NET8.Repository\\Base\\PGSql.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxcAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T14:55:44.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Program.cs",
-              "RelativeDocumentMoniker": "Pizh.net8\\Program.cs",
-              "ToolTip": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Program.cs",
-              "RelativeToolTip": "Pizh.net8\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAE8AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:35:04.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Pizh.net8\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.net8\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Pizh.net8\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAowGEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T13:34:31.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "BaseService.cs",
               "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.NET8.Service\\BaseService.cs",
               "RelativeDocumentMoniker": "Pizh.NET8.Service\\BaseService.cs",
               "ToolTip": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.NET8.Service\\BaseService.cs",
               "RelativeToolTip": "Pizh.NET8.Service\\BaseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T13:21:34.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.NET8.Service\\UserService.cs",
               "RelativeDocumentMoniker": "Pizh.NET8.Service\\UserService.cs",
@@ -138,13 +223,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "UserRepo.cs",
               "DocumentMoniker": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.NET8.Repository\\UserRepo.cs",
               "RelativeDocumentMoniker": "Pizh.NET8.Repository\\UserRepo.cs",
               "ToolTip": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.NET8.Repository\\UserRepo.cs",
               "RelativeToolTip": "Pizh.NET8.Repository\\UserRepo.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCMAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T12:33:29.157Z",
               "EditorCaption": ""

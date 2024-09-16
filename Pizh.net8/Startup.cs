@@ -34,7 +34,7 @@ namespace Pizh.NET8
                 options.Cookie.Name = "LogonApp.Cookie";// 设置认证Cookie的名称
                 options.Cookie.HttpOnly = true;//确保Cookie只能通过HTTP传输，不能通过客户端脚本访问
                 options.ExpireTimeSpan = TimeSpan.FromMinutes(60);//设置认证Cookie的过期时间为60分钟
-                options.LoginPath = "/Home/Login"; // 登录页面路径
+                options.LoginPath = "/api/User/Login"; // 登录页面路径
                 options.AccessDeniedPath = "/Home/AccessDenied"; // 访问被拒绝页面路径
             });
 
@@ -75,7 +75,7 @@ namespace Pizh.NET8
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Account}/{action=Login}/{id?}");
+                    pattern: "{controller=UserControlller}/{action=Login}/{id?}");
             });
         }
     }

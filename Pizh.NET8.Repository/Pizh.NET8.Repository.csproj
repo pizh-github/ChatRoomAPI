@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Pizh.net8.Common\Pizh.NET8.Common.csproj" />
     <ProjectReference Include="..\Pizh.NET8.Model\Pizh.NET8.Model.csproj" />
   </ItemGroup>
