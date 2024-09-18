@@ -2,8 +2,6 @@
 
 We're going to be building a basic chatroom
 
-
-
 The concepts this project will cover are
 
 1.SignalR Websocket Service
@@ -12,15 +10,11 @@ The concepts this project will cover are
 
 3.SqlSugar
 
-
-
 #### System functional modules
 
 Login module: Here, a simple and traditional Session method is used to maintain login status.
 
 Chat management module: The core module of the system, which is mainly implemented using the SignalR WebSocket.
-
-
 
 #### How To Use
 
@@ -28,7 +22,7 @@ Chat management module: The core module of the system, which is mainly implement
 
 2.modify DBConnect of appsettings.json
 
-3.**Login**：https://localhost:7141/Home/Submit
+3.**Login**：https://localhost:7141/Home/LoginSubmit
 
     Parameters:userName,password
 

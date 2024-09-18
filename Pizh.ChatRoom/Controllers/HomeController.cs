@@ -26,7 +26,7 @@ namespace Pizh.ChatRoom.Controllers
         /// <param name="password"></param>
         /// <returns></returns>
         [HttpPost]
-        public async Task<IActionResult> Submit(string userName, string password)
+        public async Task<IActionResult> LoginSubmit(string userName, string password)
         {
             var loginStatus = await _userService.Login(userName, password);
             if (loginStatus == Constants.LoginConst.OK)
@@ -81,12 +81,6 @@ namespace Pizh.ChatRoom.Controllers
             return Redirect("/Home/Login");
         }
 
-        [HttpGet]
-        public IActionResult Login()
-        {
-            return View();
-        }
-
         /// <summary>
         /// ChatRoom
         /// </summary>
@@ -99,8 +93,7 @@ namespace Pizh.ChatRoom.Controllers
             {
                 return Redirect("/Home/Login");
             }
-            ViewBag.UserName = userName;
-            return View();
+            return Redirect("/Home/ChatRoom");
         }
     }
 }
