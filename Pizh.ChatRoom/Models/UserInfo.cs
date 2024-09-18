@@ -1,4 +1,5 @@
 using SqlSugar;
+using System.Runtime.CompilerServices;
 namespace Pizh.ChatRoom.Models
 {
     public class UserInfo

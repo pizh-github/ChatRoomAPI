@@ -35,7 +35,6 @@ namespace Pizh.ChatRoom.Controllers
             return View();
         }
 
-        // pizh my controller
         [HttpGet]
         public IActionResult Login()
         {
@@ -47,10 +46,10 @@ namespace Pizh.ChatRoom.Controllers
         /// <param name="userName"></param>
         /// <param name="password"></param>
         /// <returns></returns>
-        [HttpGet]
-        public IActionResult Submit(string userName, string password)
+        [HttpPost]
+        public async Task<IActionResult> Submit(string userName, string password)
         {
-            int loginStatus = _userService.Login(userName, password);
+            var loginStatus = await _userService.Login(userName, password);
             if (loginStatus == Constants.LoginConst.OK)
             {
                 HttpContext.Session.SetString("userName", userName);
@@ -74,9 +73,9 @@ namespace Pizh.ChatRoom.Controllers
         /// <param name="password"></param>
         /// <returns></returns>
         [HttpPost]
-        public IActionResult Register(string userName, string password)
+        public async Task<IActionResult> Register(string userName, string password)
         {
-            int registerStatus= _userService.Register(userName, password);
+            var registerStatus = await _userService.Register(userName, password);
             if (registerStatus == Constants.RegisterConst.OK)
             {
                 return Redirect("/Home/Login");

@@ -4,8 +4,8 @@ namespace Pizh.ChatRoom.Service
 {
     public interface IUserService
     {
-        int Register(string name, string password);
+        Task<int> Register(string name, string password);
 
-        int Login(string name, string password);
+        Task<int> Login(string name, string password);
     }
 }

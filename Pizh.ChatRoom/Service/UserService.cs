@@ -12,9 +12,10 @@ namespace Pizh.ChatRoom.Service
             _db = db;
         }
 
-        public int Login(string name, string password)
+        public async Task<int> Login(string name, string password)
         {
-            UserInfo user = GetUser(name);
+            UserInfo user = await GetUser(name);
+            
             if (user == null)
             {
                 return Constants.LoginConst.UserNotExist;
@@ -29,9 +30,9 @@ namespace Pizh.ChatRoom.Service
             }
 
         }
-        public int Register(string name, string password)
+        public async Task<int> Register(string name, string password)
         {
-            UserInfo user = GetUser(name);
+            UserInfo user = await GetUser(name);
             if (user == null)
             {
                 UserInfo newInfo = new UserInfo()
@@ -47,9 +48,9 @@ namespace Pizh.ChatRoom.Service
                 return Constants.RegisterConst.UserAlreadyExist;
             }
         }
-        public UserInfo GetUser(string name)
+        public async Task<UserInfo> GetUser(string name)
         {
-            return _db.Queryable<UserInfo>().First(x => x.Name == name);
+            return await Task.Run(() => _db.Queryable<UserInfo>().First(x => x.Name == name));
         }
     }
 }
