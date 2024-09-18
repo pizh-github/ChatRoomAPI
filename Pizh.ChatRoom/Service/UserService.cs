@@ -11,22 +11,7 @@ namespace Pizh.ChatRoom.Service
         {
             _db = db;
         }
-        public bool CodeFirst()
-        {
-            try
-            {
-                _db.DbMaintenance.CreateDatabase();
-                string nspace = "SignalRWebApp.Models";
-                Type[] ass = Assembly.LoadFrom(AppContext.BaseDirectory + "SignalRWebApp.dll")
-                    .GetTypes().Where(p => p.Namespace == nspace).ToArray();
-                _db.CodeFirst.SetStringDefaultLength(200).InitTables(ass);
-            }
-            catch (Exception)
-            {
-                return false;
-            }
-            return true;
-        }
+
         public int Login(string name, string password)
         {
             UserInfo user = GetUser(name);
@@ -64,18 +49,7 @@ namespace Pizh.ChatRoom.Service
         }
         public UserInfo GetUser(string name)
         {
-            return new UserInfo()
-            {
-                Id = Guid.NewGuid().ToString(),
-                Name = "pizh",
-                Password = "123456"
-            };
-            //return _db.Queryable<UserInfo>().First(x => x.Name == name);
-        }
-
-        public List<UserMessage> GetMessages(int pageIndex, int PageSize)
-        {
-            return _db.Queryable<UserMessage>().ToOffsetPage(pageIndex, PageSize);
+            return _db.Queryable<UserInfo>().First(x => x.Name == name);
         }
     }
 }

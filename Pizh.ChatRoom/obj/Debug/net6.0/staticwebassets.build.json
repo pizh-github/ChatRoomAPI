@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ju/gTYjUlC9o6dhZr8gbku+75Fj2nGfwgREw33tL4uU=",
+  "Hash": "/IFtCtDwW+hdpbi4fb7EHBlMCyPcpPUGu8jDGwJQkD4=",
   "Source": "Pizh.ChatRoom",
   "BasePath": "_content/Pizh.ChatRoom",
   "Mode": "Default",
@@ -16,44 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.ChatRoom\\Pizh.ChatRoom\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Pizh.ChatRoom.styles.css",
-      "SourceId": "Pizh.ChatRoom",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.ChatRoom\\Pizh.ChatRoom\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/Pizh.ChatRoom",
-      "RelativePath": "Pizh.ChatRoom.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.ChatRoom\\Pizh.ChatRoom\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Pizh.ChatRoom.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.ChatRoom\\Pizh.ChatRoom\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Pizh.ChatRoom.bundle.scp.css",
-      "SourceId": "Pizh.ChatRoom",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.ChatRoom\\Pizh.ChatRoom\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/Pizh.ChatRoom",
-      "RelativePath": "Pizh.ChatRoom.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.ChatRoom\\Pizh.ChatRoom\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Pizh.ChatRoom.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.ChatRoom\\Pizh.ChatRoom\\wwwroot\\css\\site.css",
       "SourceId": "Pizh.ChatRoom",

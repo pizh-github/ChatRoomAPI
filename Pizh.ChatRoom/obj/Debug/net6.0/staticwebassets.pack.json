@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.ChatRoom\\Pizh.ChatRoom\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Pizh.ChatRoom.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Pizh.ChatRoom.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.ChatRoom\\Pizh.ChatRoom\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

@@ -11,7 +11,7 @@ connection.start().then(function () {
 
 // 发送消息
 $("#sendButton").click(function () {
-    var user = $("#userInput").val();
+    var username = $("#userInput").val();
     var message = $("#messageInput").text();
     connection.invoke("SendMessage", username, message).catch(function (err) {
         return console.error(err.toString());

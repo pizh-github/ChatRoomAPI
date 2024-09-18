@@ -1,26 +1,6 @@
 [
   {
     "ContainingType": "Pizh.ChatRoom.Controllers.HomeController",
-    "Method": "CodeFirst",
-    "RelativePath": "Home/CodeFirst",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Boolean",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Pizh.ChatRoom.Controllers.HomeController",
     "Method": "Index",
     "RelativePath": "Home/Index",
     "HttpMethod": "GET",
@@ -43,16 +23,6 @@
     "ContainingType": "Pizh.ChatRoom.Controllers.HomeController",
     "Method": "LogOut",
     "RelativePath": "Home/LogOut",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Pizh.ChatRoom.Controllers.HomeController",
-    "Method": "Privacy",
-    "RelativePath": "Home/Privacy",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -84,7 +54,7 @@
     "ContainingType": "Pizh.ChatRoom.Controllers.HomeController",
     "Method": "Submit",
     "RelativePath": "Home/Submit",
-    "HttpMethod": "POST",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [

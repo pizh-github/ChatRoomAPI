@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pizh\\OneDrive\\source\\Pizh.ChatRoom\\Pizh.ChatRoom\\Pizh.ChatRoom.csproj": {}
+    "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.ChatRoom\\Pizh.ChatRoom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pizh\\OneDrive\\source\\Pizh.ChatRoom\\Pizh.ChatRoom\\Pizh.ChatRoom.csproj": {
+    "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.ChatRoom\\Pizh.ChatRoom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.ChatRoom\\Pizh.ChatRoom\\Pizh.ChatRoom.csproj",
+        "projectUniqueName": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.ChatRoom\\Pizh.ChatRoom.csproj",
         "projectName": "Pizh.ChatRoom",
-        "projectPath": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.ChatRoom\\Pizh.ChatRoom\\Pizh.ChatRoom.csproj",
+        "projectPath": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.ChatRoom\\Pizh.ChatRoom.csproj",
         "packagesPath": "C:\\Users\\pizh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.ChatRoom\\Pizh.ChatRoom\\obj\\",
+        "outputPath": "C:\\Users\\pizh\\OneDrive\\source\\Pizh.net8\\Pizh.ChatRoom\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
