@@ -20,27 +20,6 @@ namespace Pizh.ChatRoom.Controllers
         }
 
         /// <summary>
-        /// ChatRoom
-        /// </summary>
-        /// <returns></returns>
-        [HttpGet]
-        public IActionResult Index()
-        {
-            var userName = HttpContext.Session.GetString("userName");
-            if (string.IsNullOrEmpty(userName))
-            {
-                return Redirect("/Home/Login");
-            }
-            ViewBag.UserName = userName;
-            return View();
-        }
-
-        [HttpGet]
-        public IActionResult Login()
-        {
-            return View();
-        }
-        /// <summary>
         /// Login
         /// </summary>
         /// <param name="userName"></param>
@@ -100,6 +79,28 @@ namespace Pizh.ChatRoom.Controllers
             HttpContext.Session.Remove("userName");
             Response.Cookies.Delete("userName");
             return Redirect("/Home/Login");
+        }
+
+        [HttpGet]
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        /// <summary>
+        /// ChatRoom
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet]
+        public IActionResult Index()
+        {
+            var userName = HttpContext.Session.GetString("userName");
+            if (string.IsNullOrEmpty(userName))
+            {
+                return Redirect("/Home/Login");
+            }
+            ViewBag.UserName = userName;
+            return View();
         }
     }
 }
